@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">745135542283-oouf3orqg0qgvgu592t1qpo6keb45vf1.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">745135542283</string>
+    <string name="google_api_key" translatable="false">AIzaSyBxPXJy2VIZCNnhLqz9dME4GnfP4_jAfi8</string>
+    <string name="google_app_id" translatable="false">1:745135542283:android:1f1c41ef531cc1771e370e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBxPXJy2VIZCNnhLqz9dME4GnfP4_jAfi8</string>
+    <string name="google_storage_bucket" translatable="false">covoiturage-2b148.appspot.com</string>
+    <string name="project_id" translatable="false">covoiturage-2b148</string>
+</resources>
